@@ -5,4 +5,6 @@
 
 Aqui se realizo un cambio.
 
-Esto es un nuevo archivo de pruebas
+Esto es un nuevo archivo de pruebas.
+
+Otro cambio
