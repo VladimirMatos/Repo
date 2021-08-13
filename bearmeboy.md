@@ -2,6 +2,9 @@
 
 ##Lyrics
 
+
+Aqui se realizo un cambio.
+
 Man, I don't know what the fuck goin' on lately, bro
 Everybody actin' real different and shit
 Ain't nobody, nobody was talkin' to me, like, a few months ago
